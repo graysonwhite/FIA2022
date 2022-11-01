@@ -1,4 +1,4 @@
-# Forest Inventory and Analysis Science Stakeholder Meeting 2022: Slides and Materials
+# FIA Science Stakeholder Meeting 2022: Slides and Materials
 
 ## Invited talk: *Improving Forest Inventory Small Area Estimates through Ecological Borrowing and Hierarchical Bayesian Methods*
 
