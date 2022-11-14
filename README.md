@@ -19,7 +19,7 @@ Relevant links:
     * [Watersheds](https://ncasi-shiny-tools.shinyapps.io/watersheds/) 
     
  
-## Contributed talk: *How do we Assess the Performance of our Small Area Estimators?*
+## Contributed talk: *How Do We Assess the Performance of Our Small Area Estimators?*
 
 A contributed talk in the *Improving Estimation Methods* session.
 
