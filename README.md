@@ -27,4 +27,4 @@ A contributed talk in the *Improving Estimation Methods* session.
 
 In the U.S. Forest Inventory and Analysis (FIA) Program's small area estimation problems, we are fortunate to have essentially complete unit-level "administrative data" in the form of wall-to-wall coverage of the USA by satellite measurements, elevation data, climate records, etc. at geographic resolution equivalent to the individual plots of land where FIA survey data are collected. In this talk, we first discuss the many choices we have when estimating forest attributes, and then discuss an approach to design-based simulation studies for evaluating SAE models when such detailed administrative data are available. This approach uses hot deck imputation to take response variable values from real FIA survey data and assign them to similar units sampled in each simulation run.
 
-Slides available: [pdf](slides/SAE_Assessment_2022.pdf)
+Slides available: [pdf](slides/SAE_Assessment_Grayson_White.pdf)
